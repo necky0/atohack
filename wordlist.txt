@@ -48,7 +48,8 @@ jest
 redux
 asp.net
 ml
-machine learning
+machine
+learning
 math
 analysis
 xgboost
@@ -69,7 +70,8 @@ hbase
 spark
 matplotlib
 jupyter
-linear algebra
+linear
+algebra
 statistic
 probability
 c
@@ -118,7 +120,8 @@ mumps
 corel
 stl
 pep
-design patterns
+design
+patterns
 flask
 django
 pip
@@ -127,7 +130,8 @@ virtualization
 cloudification
 data mining
 ai
-artificial intelligence
+artificial
+intelligence
 ssh
 ftp
 security
@@ -148,10 +152,12 @@ internet
 pychar
 eclipse
 intellij
-visual studio
+visual
+studio
 bluej
 code blocks
-android studio
+android
+studio
 anaconda
 netbeans
 groovy
