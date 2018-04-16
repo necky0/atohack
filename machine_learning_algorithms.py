@@ -61,6 +61,7 @@ def estimate_p_x_y_nb(Xtrain, ytrain, a, b):
 
     def quotient(x):
         numerator = np.bincount(np.extract(x, ytrain), minlength=length) + a - 1
+        # TODO dividing by zero!
         return numerator/denominator
 
     return np.apply_along_axis(quotient, axis=0, arr=Xtrain.toarray())
