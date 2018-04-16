@@ -2,7 +2,7 @@ from scipy import sparse
 from data_extraction import *
 from machine_learning_algorithms import *
 import pickle
-from url import *
+from html_extraction import *
 
 
 test_path = r'test\1.txt'
